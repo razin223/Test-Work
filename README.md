@@ -69,3 +69,10 @@ OR
     ]
 }
 ```
+
+
+## How to use
+- Clone the repository
+- run composer update
+- Run migrations (sorry did not able to make seeds)
+- For email sending set email config in env file
