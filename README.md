@@ -8,10 +8,6 @@
 - No duplicate stories should get sent to subscribers.
 - Deploy the code on a public github repository.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
 ## What I did
 
 - In Migration folder 4 tables (```users, websites,posts, subscriptions```), Models at their location with 2 static property (post and subscription) for validation control and relation
