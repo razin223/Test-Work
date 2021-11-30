@@ -73,7 +73,7 @@ OR
 
 ## How to use
 - Clone the repository
-- run composer update
+- run composer update command
 - Run migrations (sorry did not able to make seeds)
 - For email sending set email config in env file
 - For running cron use laravel instruction (I added the cron command in karnel for everyday at 12:01AM)
