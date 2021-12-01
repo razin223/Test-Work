@@ -31,4 +31,8 @@ class PostController extends Controller {
         return response()->json(['status' => true, 'success' => "Post has been created.", 'post_id' => $Data->id], 200);
     }
 
+    public function show($id){
+       return [$id];
+    }
+
 }
